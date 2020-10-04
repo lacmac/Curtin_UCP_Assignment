@@ -14,7 +14,7 @@ EXECUTE
 
     ./turtleGraphics [commands_file]
     
-        task_file: The file which contains the commands to draw in the terminal.
+        commands_file: The file which contains the commands to draw in the terminal.
 
 CLEAN:
 
